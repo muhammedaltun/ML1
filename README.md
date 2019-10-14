@@ -19,6 +19,6 @@ The 41 words agile, analysis, android, ... , windows are the words from the list
 
 ---------------EXPLANATION ON THE ROWS OF accuracies.xlsx------------------------
 
-Example: The number on row magento and column NaiveBayes is the accuracy score according to NaiveBayes GaussianNB classifier where X is the 41 columns except the magento "column" and y is the "magento" column. Train-test split is done with test size 50 %.
+Example: The number on row magento and column NaiveBayes is the accuracy score according to NaiveBayes GaussianNB classifier where X is the 41 columns except the "magento" column and y is the "magento" column. Train-test split is done with test size 50 %.
 
 
