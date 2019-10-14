@@ -12,8 +12,10 @@ SKILLS:  words that appear on the page belonging to the fixed list (named skills
 
 \# SKILLS: number of words in SKILLS column
 
-the 41 columns from "agile" to "windows" show the appeareance of the word. For example,
+The 41 columns from "agile" to "windows" show the appeareance of the word. For example,
 agile: is 1 if the word "agile" exists in the page, and 0 if "agile" does not exist
+
+The 41 words agile, analysis, android, ... , windows are the words from the list skills (allwords in union.py) which appear in at least 500 pages.
 
 ---------------EXPLANATION ON THE ROWS OF accuracies.xlsx------------------------
 
