@@ -2,7 +2,7 @@
 
 stack.xlsx is a file formed by stack.py which collects information on remote jobs by web scraping from the webpage stackoverflow.com,
 similarly monster.xlsx is a file formed by monster.py which collects information on remote jobs from the webpage monster.com,
-and indeed.xlsx is a file formed by stack.py which collects information on remote jobs from the webpage indeed.com
+and indeed.xlsx is a file formed by indeed.py which collects information on remote jobs from the webpage indeed.com
 
 union.py file merges the stack, indeed  and monster excel files and produces union.xlsx and accuracies.xlsx
 
@@ -20,5 +20,4 @@ The 41 words agile, analysis, android, ... , windows are the words from the list
 ---------------EXPLANATION ON THE ROWS OF accuracies.xlsx------------------------
 
 Example: The number on row magento and column NaiveBayes is the accuracy score according to NaiveBayes GaussianNB classifier where X is the 41 columns except the "magento" column and y is the "magento" column. Train-test split is done with test size 50 %.
-
 
