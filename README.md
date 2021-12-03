@@ -1,4 +1,4 @@
-# ML1
+# Machine Learning on Webpages
 
 - stack.xlsx is a file formed by stack.py which collects information on remote jobs by web scraping from the webpages of stackoverflow.com,
 similarly monster.xlsx is a file formed by monster.py which collects information on remote jobs from the webpages of monster.com,
